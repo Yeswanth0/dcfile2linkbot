@@ -1,5 +1,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 ![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
 
 
